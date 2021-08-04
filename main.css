@@ -65,10 +65,16 @@ h4 {
 
 div {
     display: block;
+    padding: 1em;
 }
 
 .btn-primary {
     color: #fff;
     background-color: gray;
     border-color: gray;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1140px;
+    padding: 1.5em;
 }
