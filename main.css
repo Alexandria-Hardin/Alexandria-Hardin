@@ -72,9 +72,15 @@ div {
     color: #fff;
     background-color: gray;
     border-color: gray;
+    box-shadow: 3px 3px 2px 0 #000000;
 }
 
 .container, .container-lg, .container-md, .container-sm, .container-xl {
     max-width: 1140px;
     padding: 1.5em;
+}
+
+h1 {
+    font-style: italic;
+
 }
