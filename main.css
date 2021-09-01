@@ -8,6 +8,10 @@ html {
     -webkit-tap-highlight-color: transparent;
 }
 
+/* .card{
+    opacity: 0.5;
+} */
+
 img {
     vertical-align: middle;
     border-style: hidden;
